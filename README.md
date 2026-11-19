@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/sidodadi-dev/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/sidodadi-dev/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 # The World in One Day — Thursday 19 November 2026
 
 An entry for make.fun's **"Sum up 19 November's world news in one image"**
@@ -29,6 +33,10 @@ The poster itself was drawn from the day's headlines with `poster.py`
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
+
+## The bounty
+
+Entered in make.fun's [“Sum up 19 November's world news in one image”](https://make.fun/bounty/news-image-20261119) bounty ($250 in USDC) by [@sidodadi](https://make.fun/profile). New here? Join make.fun with my referral link: https://make.fun/r/vy8jjegg
 
 ## License
 
